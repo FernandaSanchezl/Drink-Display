@@ -9,6 +9,6 @@
 - Diseño personalizable para adaptarse a diversos temas de bebidas (por ejemplo, café, té, refrescos o cócteles).
 - Fácil de integrar en sitios web, páginas de destino o proyectos relacionados con bebidas.
 
-
+![Vista previa del proyecto](imagen/Drink-Display.gif)
 
 
